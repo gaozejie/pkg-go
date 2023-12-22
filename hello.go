@@ -1,3 +1,6 @@
+/*
+ * This my first go mod !
+ */
 package pkg
 
 import "fmt"
